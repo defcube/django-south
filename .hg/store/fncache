@@ -181,3 +181,4 @@ data/tests/fakeapp/migrations/__init__.py.i
 data/tests/fakeapp/models.py.i
 data/tests/logic.py.i
 data/tests/modelsparser.py.i
+data/docs/releasenotes/0.7.2.rst.i
